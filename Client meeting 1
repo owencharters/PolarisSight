@@ -1,0 +1,9 @@
+QUESTIONS
+
+Can you describe the hardware/network configuration the system should be able to protect?
+
+What scale of data should we be working with? (events/min, users, etc)
+
+What types of attacks (authentication, corruption, etc) and methods of protection (detection vs restoration) should the system be suitable for?
+
+The proposed software seems to cover all of the minimum functionalities; how much are we expected to extend the functionality or is it purely about the integration?
