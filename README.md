@@ -33,3 +33,10 @@ Table of comparison
 
 NOTE: Most of the competing softwares will not be suitable for our project, so we are proving this.
 
+
+#TODO
+BURNDOWN CHART
+Finalise Sprints + Document
+Meeting Minutes
+Presentation Discussion
+
